@@ -5,12 +5,12 @@
 
 ## Hi 👋! Welcome my profile.
 
-I'm Willian Silva, I'm a Front-End developer 👨‍💻 who is passionate about JavaScript technologies and its entire ecosystem.
+I'm Willian Silva, I'm a Back-End developer 👨‍💻 who is passionate about JavaScript technologies and its entire ecosystem.
 
 Passionate about technology and all the ease they bring to the world.
 
 - 🔭 I’m currently looking for working on JavaScript apps/systems
-- 🌱 I’m currently learning React Native, Typescript, Flutter and of course JS improvments
+- 🌱 I’m currently learning React Native, Typescript, Node and of course JS improvments
 -  ⚡ Technologies: React, Node, React-Native, Jest and Mocha.
 
 "What we know is a drop, what we ignore is an ocean." - Isaac Newton.

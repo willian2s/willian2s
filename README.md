@@ -14,3 +14,7 @@ Passionate about technology and all the ease they bring to the world.
 -  ⚡ Technologies: React, Node, React-Native, Jest and Mocha.
 
 "What we know is a drop, what we ignore is an ocean." - Isaac Newton.
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=willian2s&show_icons=true" alt="willian2s"/> 
+</p>

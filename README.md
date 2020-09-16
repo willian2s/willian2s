@@ -5,7 +5,7 @@
 
 ## Hi 👋! Welcome my profile.
 
-I'm Willian Silva, I'm a Back-End developer 👨‍💻 who is passionate about JavaScript technologies and its entire ecosystem.
+I'm Willian Silva, I'm a Javascript developer 👨‍💻 who is passionate about JavaScript technologies and its entire ecosystem.
 
 Passionate about technology and all the ease they bring to the world.
 

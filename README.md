@@ -9,9 +9,9 @@ I'm Willian Silva, I'm a Javascript developer 👨‍💻 who is passionate abou
 
 Passionate about technology and all the ease they bring to the world.
 
-- 🔭 I’m currently looking for working on JavaScript apps/systems
+- 🔭 I’m currently looking for working on JavaScript/TypeScript apps/systems
 - 🌱 I’m currently learning React Native, Typescript, Node and of course JS improvments
--  ⚡ Technologies: React, Node, React-Native, Jest and Mocha.
+-  ⚡ Technologies: React, Node, React-Native, Jest.
 
 "What we know is a drop, what we ignore is an ocean." - Isaac Newton.
 

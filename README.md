@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/williansilva21/)](https://www.linkedin.com/in/williansilva21/)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/155598/willian-silva)](https://pt.stackoverflow.com/users/155598/willian-silva)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:silva.williansantos@gmail.com)](mailto:silva.williansantos@gmail.com)
-https://www.codewars.com/users/willian2s/badges/micro
+![Codewars](https://www.codewars.com/users/willian2s/badges/micro)
 
 ## Hi 👋! Welcome my profile.
 

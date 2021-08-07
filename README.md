@@ -16,6 +16,6 @@ Passionate about technology and all the ease they bring to the world.
 
 "What we know is a drop, what we ignore is an ocean." - Isaac Newton.
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=willian2s&show_icons=true" alt="willian2s"/> 
-</p>
+[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=willian2s&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/willian2s)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willian2s&layout=compact)](https://github.com/willian2s)

@@ -13,14 +13,12 @@ Passionate about technology and all the ease they bring to the world.
 - 🔭 I’m Fullstack developer Javascript/Typescript. I work with the following techs:
   - Frontend:
     * React
-    * React Hooks
     * React Native
     * NextJS
     * Styled-Components
     * Chakra-Ui
   - Backend:
     * Express
-    * OvernightJs
     * NestJs
     * TypeORM
     * Mongoose
@@ -38,6 +36,3 @@ Passionate about technology and all the ease they bring to the world.
 ](https://github.com/willian2s)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willian2s&layout=compact&theme=dracula)](https://github.com/willian2s)
-
-[![willian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willian2s&layout=compact)](https://github.com/willian2s)
-

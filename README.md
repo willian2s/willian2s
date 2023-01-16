@@ -32,7 +32,7 @@ Passionate about technology and all the ease they bring to the world.
 
 "What we know is a drop, what we ignore is an ocean." - Isaac Newton.
 
-[![willian's GitHub stats](https://github-readme-stats.vercel.app/api?username=willian2s&count_private=true&show_icons=true&layout=compact&theme=dracula)
+<!-- [![willian's GitHub stats](https://github-readme-stats.vercel.app/api?username=willian2s&count_private=true&show_icons=true&layout=compact&theme=dracula)
 ](https://github.com/willian2s)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willian2s&layout=compact&theme=dracula)](https://github.com/willian2s)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willian2s&layout=compact&theme=dracula)](https://github.com/willian2s) -->
